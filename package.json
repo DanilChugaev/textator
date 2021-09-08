@@ -1,0 +1,30 @@
+{
+  "name": "textator",
+  "version": "0.1.0",
+  "description": "Text translator for frontend projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanilChugaev/textator.git"
+  },
+  "keywords": [
+    "translator",
+    "translate",
+    "localization",
+    "i18n",
+    "js"
+  ],
+  "author": {
+  "name": "Danil Chugaev",
+  "email": "dmchugaev@gmail.com",
+  "url": "https://github.com/danilchugaev"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanilChugaev/textator/issues"
+  },
+  "homepage": "https://github.com/DanilChugaev/textator#readme"
+}
